@@ -6,6 +6,11 @@ profiles['powder'] = S{
     'prize powder',
     }
 
+-- //sellnpc powder
+profiles['shield'] = S{
+    'Acheron Shield',
+    }
+
 -- //sellnpc ore
 profiles['ore'] = S{
     'iron ore',
